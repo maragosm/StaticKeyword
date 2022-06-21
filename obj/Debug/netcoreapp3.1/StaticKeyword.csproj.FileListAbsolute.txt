@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\bin\Debug\netcoreapp3.1\StaticKeyword.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\StaticKeyword\obj\Debug\netcoreapp3.1\StaticKeyword.genruntimeconfig.cache
